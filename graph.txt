@@ -1,0 +1,35 @@
+Loaded Cora: 2708 papers, 5429 citations
+
+===== Citation Network =====
+Showing 10 of 2708 papers
+1000012 -> 
+100197 -> 193931 447250 688361 
+100701 -> 1107041 
+100935 -> 1120643 1134865 
+100961 -> 60169 
+101143 -> 101145 596075 
+101145 -> 
+101261 -> 101263 
+101263 -> 28456 1112099 1139928 
+101660 -> 1107095 
+... remaining papers omitted
+Papers by category:
+  Case Based: 298
+  Genetic Algorithms: 418
+  Neural Networks: 818
+  Probabilistic Methods: 426
+  Reinforcement Learning: 217
+  Rule Learning: 180
+  Theory: 351
+Top 10 cited papers:
+  1000012: 5 citations
+  10186: 5 citations
+  103543: 5 citations
+  110163: 5 citations
+  110164: 5 citations
+  1103315: 5 citations
+  1103960: 5 citations
+  1104647: 5 citations
+  1104999: 5 citations
+  1105764: 5 citations
+To calculate network flow, run: java Main <source-paper-id> <sink-paper-id>
